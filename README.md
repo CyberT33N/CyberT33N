@@ -34,8 +34,10 @@ ___________________________________________________________________________
 
 
 
+
 <br /><br />
-<table align="center"><tr><td align="center" width="9999">
+<table align="center"><tr>
+<td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
 • Windows (7-10)<br />
@@ -47,12 +49,14 @@ ___________________________________________________________________________
 
 
 
-
-
 <br /><br />
-<table align="center"><tr><td align="center" width="9999">
-<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<table align="center"><tr>
+<td align="center" width="9999">
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
+  
+
+<div align="center" width="200">
 • Node.js<br />
 • Javascript<br />
 • CSS<br />
@@ -62,8 +66,11 @@ ___________________________________________________________________________
 • Regex<br />
 • Bash<br />
 • CMD<br />
-• Electron.js<br /><br />
+• Electron.js
+ </div>
+  <br /><br />
 </td></tr></table>
+
 
 
 
