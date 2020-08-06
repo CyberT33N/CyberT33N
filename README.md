@@ -19,7 +19,7 @@ ___________________________________________________________________________
 <br /><br /> ★ 𝐌𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 (𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬) ★
 
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 <br /><br />𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬:
 <br />• Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
