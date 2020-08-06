@@ -30,7 +30,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <br />𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
 <br />• Node.js<br />
 • Javascript<br />
