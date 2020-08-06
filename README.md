@@ -33,12 +33,10 @@ ___________________________________________________________________________
 <h1 align="center"> ★ 𝐌𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 (𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬) ★ </h1>
 
 
-
-
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
 • Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
@@ -52,11 +50,8 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
-  
-
-<div align="center" width="200">
 • Node.js<br />
 • Javascript<br />
 • CSS<br />
@@ -67,8 +62,7 @@ ___________________________________________________________________________
 • Bash<br />
 • CMD<br />
 • Electron.js
- </div>
-  <br /><br />
+<br /><br />
 </td></tr></table>
 
 
