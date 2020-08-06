@@ -35,18 +35,21 @@ ___________________________________________________________________________
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <br /><br />𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬:
 <br />• Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
 • Linux (Ubuntu, Fedora, Linux Mint, Cent OS)<br />
 • Normally I can work with any version or release (any OS which is not listed above) but with the OS from above I´ve got work experience!<br /><br />
+</td></tr></table>
 
 
 
 
 <br /><br />
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<table align="center"><tr><td align="center" width="9999">
+<img width="500" align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <br />𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
 <br />• Node.js<br />
 • Javascript<br />
@@ -61,10 +64,15 @@ ___________________________________________________________________________
 <br /><br />
 <br /><br />𝐂𝐫𝐨𝐬𝐬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞:
 <br />• Electron.js<br />
+</td></tr></table>
+
+
+
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <br /><br />𝐁𝐨𝐭𝐬:
 <br />• Automation<br />
@@ -73,24 +81,26 @@ ___________________________________________________________________________
 • Webdriver.io<br />
 • Cheerio.js<br />
 • Chromium<br />
-
+</td></tr></table>
 
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
 <br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
 <br />• Anime.js<br />
 • Tippy.js<br />
 • jQuery<br />
 • Chromium Extensions<br />
-
+</td></tr></table>
 
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
 <br /><br />𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬:
 <br />• Express.js<br />
@@ -106,7 +116,7 @@ ___________________________________________________________________________
 • FFmpeg<br />
 • SMTP<br />
 • XAMPP<br />
-
+</td></tr></table>
 
 
 
@@ -114,23 +124,25 @@ ___________________________________________________________________________
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
 <br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
 <br />• PhpMyAdmin<br />
 • MySQL<br />
 • MongoDB<br />
-
+</td></tr></table>
 
 
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif" />
 <br /><br />𝐂𝐌𝐒:
 <br />• Opencart<br />
 • Wordpress<br />
-
+</td></tr></table>
 
 
 
@@ -138,6 +150,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
 <br /><br />𝐀𝐏𝐈:
 <br />• Discord API<br />
@@ -147,25 +160,33 @@ ___________________________________________________________________________
 • Dropbox API<br />
 • OneDrive API<br />
 • Box API<br />
+</td></tr></table>
+
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" />
 <br /><br />𝐈𝐬𝐨𝐥𝐚𝐭𝐢𝐨𝐧:
 <br />• Virtualbox<br />
 • VeraCrypt (GUI & CLI)<br />
 • VPN/Proxy/Socks5 (OpenVPN, NordVPN)<br />
+</td></tr></table>
+
 
 
 
 <br /><br />
+<table align="center"><tr><td align="center" width="9999">
 <img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
 <br /><br />𝐀𝐝𝐨𝐛𝐞:
 <br />• Adobe Photoshop<br />
 • Adobe After Effects<br />
 • Adobe InDesign<br />
 • Adobe Illustrator<br />
+</td></tr></table>
+
 
 <br />
 ___________________________________________________________________________
