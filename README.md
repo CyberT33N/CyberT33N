@@ -51,7 +51,7 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 • Node.js<br />
 • Javascript<br />
@@ -62,8 +62,10 @@ ___________________________________________________________________________
 • Regex<br />
 • Bash<br />
 • CMD<br />
-• Electron.js
+• Electron.js<br /><br />
 </td></tr></table>
+
+
 
 
 
@@ -72,9 +74,9 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
-<br /><br />𝐁𝐨𝐭𝐬:
-<br />• Automation<br />
+<img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
+<h1 align="center"> 𝘽𝙤𝙩𝙨 </h1>
+• Automation<br />
 • Scrap/Crawl<br />
 • Puppeteer<br />
 • Webdriver.io<br />
@@ -85,15 +87,21 @@ ___________________________________________________________________________
 
 
 
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
 <br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
 <br />• Anime.js<br />
 • Tippy.js<br />
 • jQuery<br />
 • Chromium Extensions<br />
 </td></tr></table>
+
+
+
+
 
 
 
@@ -124,12 +132,18 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
 <br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
 <br />• PhpMyAdmin<br />
 • MySQL<br />
 • MongoDB<br />
 </td></tr></table>
+
+
+
+
+
+
 
 
 
@@ -148,9 +162,15 @@ ___________________________________________________________________________
 
 
 
+
+
+
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
 <br /><br />𝐀𝐏𝐈:
 <br />• Discord API<br />
 • Google Sheet API<br />
@@ -160,6 +180,10 @@ ___________________________________________________________________________
 • OneDrive API<br />
 • Box API<br />
 </td></tr></table>
+
+
+
+
 
 
 
@@ -176,9 +200,12 @@ ___________________________________________________________________________
 
 
 
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
 <br /><br />𝐀𝐝𝐨𝐛𝐞:
 <br />• Adobe Photoshop<br />
 • Adobe After Effects<br />
