@@ -10,19 +10,23 @@
 
 
 
-<br /><br />
+<br /><br /><br /><br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+
+<p align="center">
 ★ SUPPORT ★
 <br />✅ 𝘞𝘰𝘳𝘬 𝘛𝘪𝘮𝘦 𝟐𝟒/𝟕 🕜<br />
 ✅ 𝙁𝙍𝙀𝙀 𝙇𝙄𝙁𝙀𝙏𝙄𝙈𝙀 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 💭<br />
+</p>
 
 
-<br /><br />★ SERVICE ★
+<br /><br />
+<p align="center">★ SERVICE ★
 <br />✅ 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 🤖<br />
 ✅ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬, 𝐌𝐀𝐂 & 𝐋𝐢𝐧𝐮𝐱 💻<br />
 ✅ 𝟏𝟎 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 ☕<br />
 ✅ 𝘛𝘩𝘦 𝙘𝙝𝙚𝙖𝙥𝙚𝙨𝙩 𝙥𝙧𝙞𝙘𝙚 𝘧𝘰𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💲<br />
-
+</p>
 
 <br /><br />
 ___________________________________________________________________________
