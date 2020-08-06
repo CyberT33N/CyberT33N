@@ -16,18 +16,18 @@ ___________________________________________________________________________
 
 
 
-<br /><br />★ MY EXPERIENCE (Front-end, Back-end & DevOps) ★
+<br /><br /> ★ 𝐌𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 (𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬) ★
 
 
 
 <br /><br />𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬:
-• Windows (7-10)<br />
+<br />• Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
 • Linux (Ubuntu, Fedora, Linux Mint, Cent OS)<br />
 • Normally I can work with any version or release (any OS which is not listed above) but with the OS from above I´ve got work experience!<br />
 
 <br />𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
-• Node.js<br />
+<br />• Node.js<br />
 • Javascript<br />
 • CSS<br />
 • HTML<br />
@@ -38,10 +38,10 @@ ___________________________________________________________________________
 • CMD<br />
 
 <br /><br />𝐂𝐫𝐨𝐬𝐬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞:
-• Electron.js<br />
+<br />• Electron.js<br />
 
 <br /><br />𝐁𝐨𝐭𝐬:
-• Automation<br />
+<br />• Automation<br />
 • Scrap/Crawl<br />
 • Puppeteer<br />
 • Webdriver.io<br />
@@ -49,13 +49,13 @@ ___________________________________________________________________________
 • Chromium<br />
 
 <br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
-• Anime.js<br />
+<br />• Anime.js<br />
 • Tippy.js<br />
 • jQuery<br />
 • Chromium Extensions<br />
 
 <br /><br />𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬:
-• Express.js<br />
+<br />• Express.js<br />
 • Socket.io<br />
 • REST API<br />
 • VPS<br />
@@ -70,16 +70,16 @@ ___________________________________________________________________________
 • XAMPP<br />
 
 <br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
-• PhpMyAdmin<br />
+<br />• PhpMyAdmin<br />
 • MySQL<br />
 • MongoDB<br />
 
 <br /><br />𝐂𝐌𝐒:
-• Opencart<br />
+<br />• Opencart<br />
 • Wordpress<br />
 
 <br /><br />𝐀𝐏𝐈:
-• Discord API<br />
+<br />• Discord API<br />
 • Google Sheet API<br />
 • Google Drive API<br />
 • YouTube API<br />
@@ -88,12 +88,12 @@ ___________________________________________________________________________
 • Box API<br />
 
 <br /><br />𝐈𝐬𝐨𝐥𝐚𝐭𝐢𝐨𝐧:
-• Virtualbox<br />
+<br />• Virtualbox<br />
 • VeraCrypt (GUI & CLI)<br />
 • VPN/Proxy/Socks5 (OpenVPN, NordVPN)<br />
 
 <br /><br />𝐀𝐝𝐨𝐛𝐞:
-• Adobe Photoshop<br />
+<br />• Adobe Photoshop<br />
 • Adobe After Effects<br />
 • Adobe InDesign<br />
 • Adobe Illustrator<br />
