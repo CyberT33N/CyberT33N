@@ -45,12 +45,14 @@ ___________________________________________________________________________
 • Bash<br />
 • CMD<br />
 
+<br /><br />
 <br /><br />𝐂𝐫𝐨𝐬𝐬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞:
 <br />• Electron.js<br />
 
 
+
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <br /><br />𝐁𝐨𝐭𝐬:
 <br />• Automation<br />
 • Scrap/Crawl<br />
@@ -59,12 +61,24 @@ ___________________________________________________________________________
 • Cheerio.js<br />
 • Chromium<br />
 
+
+
+
+
+<br /><br />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
 <br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
 <br />• Anime.js<br />
 • Tippy.js<br />
 • jQuery<br />
 • Chromium Extensions<br />
 
+
+
+
+
+<br /><br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
 <br /><br />𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬:
 <br />• Express.js<br />
 • Socket.io<br />
@@ -80,15 +94,38 @@ ___________________________________________________________________________
 • SMTP<br />
 • XAMPP<br />
 
+
+
+
+
+
+
+<br /><br />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
 <br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
 <br />• PhpMyAdmin<br />
 • MySQL<br />
 • MongoDB<br />
 
+
+
+
+
+
+<br /><br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif" />
 <br /><br />𝐂𝐌𝐒:
 <br />• Opencart<br />
 • Wordpress<br />
 
+
+
+
+
+
+
+<br /><br />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
 <br /><br />𝐀𝐏𝐈:
 <br />• Discord API<br />
 • Google Sheet API<br />
@@ -98,11 +135,19 @@ ___________________________________________________________________________
 • OneDrive API<br />
 • Box API<br />
 
+
+
+<br /><br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" />
 <br /><br />𝐈𝐬𝐨𝐥𝐚𝐭𝐢𝐨𝐧:
 <br />• Virtualbox<br />
 • VeraCrypt (GUI & CLI)<br />
 • VPN/Proxy/Socks5 (OpenVPN, NordVPN)<br />
 
+
+
+<br /><br />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
 <br /><br />𝐀𝐝𝐨𝐛𝐞:
 <br />• Adobe Photoshop<br />
 • Adobe After Effects<br />
@@ -112,4 +157,4 @@ ___________________________________________________________________________
 <br />
 ___________________________________________________________________________
 <br /><br />
-𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐩𝐢𝐪𝐮𝐞𝐝 𝐲𝐨𝐮𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐨𝐮𝐥𝐝 𝐠𝐢𝐯𝐞 𝐦𝐞 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰.
+<p align="center"> 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐩𝐢𝐪𝐮𝐞𝐝 𝐲𝐨𝐮𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐨𝐮𝐥𝐝 𝐠𝐢𝐯𝐞 𝐦𝐞 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰. </p>
