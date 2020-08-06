@@ -1,9 +1,4 @@
-
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-
-<br />
-<br />
 ★ SUPPORT ★
 <br />✅ 𝘞𝘰𝘳𝘬 𝘛𝘪𝘮𝘦 𝟐𝟒/𝟕 🕜<br />
 ✅ 𝙁𝙍𝙀𝙀 𝙇𝙄𝙁𝙀𝙏𝙄𝙈𝙀 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 💭<br />
