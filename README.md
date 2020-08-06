@@ -48,6 +48,9 @@ ___________________________________________________________________________
 <br /><br />𝐂𝐫𝐨𝐬𝐬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞:
 <br />• Electron.js<br />
 
+
+<br /><br />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <br /><br />𝐁𝐨𝐭𝐬:
 <br />• Automation<br />
 • Scrap/Crawl<br />
