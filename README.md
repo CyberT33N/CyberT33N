@@ -26,7 +26,7 @@ ___________________________________________________________________________
 • Linux (Ubuntu, Fedora, Linux Mint, Cent OS)<br />
 • Normally I can work with any version or release (any OS which is not listed above) but with the OS from above I´ve got work experience!<br />
 
-
+<br /><br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <br />𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
 <br />• Node.js<br />
