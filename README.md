@@ -1,3 +1,8 @@
+
+
+<br /><br />
+<p align="center"> ᑕYᗷEᖇT33ᑎ ▀̸̨̼̤̗͎͈̭͊̌̒̇̊̔͜▄̶̻̈̃̈́ </p>
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 ★ SUPPORT ★
 <br />✅ 𝘞𝘰𝘳𝘬 𝘛𝘪𝘮𝘦 𝟐𝟒/𝟕 🕜<br />
