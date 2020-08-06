@@ -1,4 +1,12 @@
-## ᑕƳᗷᗴᖇ丅33ᑎ™ (Dennis Demand) ㋛⎠
+<table align="center"><tr><td align="center" width="9999">
+<img src="https://avatars1.githubusercontent.com/u/17134633?s=460&u=e3c84d2b31da84185f0559606738b44015664332&v=4" align="center" width="150" alt="Project icon">
+
+#  ᑕƳᗷᗴᖇ丅33ᑎ™ (Dennis Demand) ㋛⎠
+
+<a href="https://www.linkedin.com/in/CyberT33N/">
+  <img alt="CyberT33N LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</td></tr></table>
 
 
 
@@ -27,7 +35,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <br /><br />𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬:
 <br />• Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
@@ -38,7 +46,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <br />𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
 <br />• Node.js<br />
 • Javascript<br />
@@ -57,7 +65,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <br /><br />𝐁𝐨𝐭𝐬:
 <br />• Automation<br />
 • Scrap/Crawl<br />
@@ -71,7 +79,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
+<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
 <br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
 <br />• Anime.js<br />
 • Tippy.js<br />
@@ -83,7 +91,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
 <br /><br />𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬:
 <br />• Express.js<br />
 • Socket.io<br />
@@ -106,7 +114,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
+<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
 <br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
 <br />• PhpMyAdmin<br />
 • MySQL<br />
@@ -118,7 +126,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif" />
 <br /><br />𝐂𝐌𝐒:
 <br />• Opencart<br />
 • Wordpress<br />
@@ -130,7 +138,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
+<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
 <br /><br />𝐀𝐏𝐈:
 <br />• Discord API<br />
 • Google Sheet API<br />
@@ -143,7 +151,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" />
+<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" />
 <br /><br />𝐈𝐬𝐨𝐥𝐚𝐭𝐢𝐨𝐧:
 <br />• Virtualbox<br />
 • VeraCrypt (GUI & CLI)<br />
@@ -152,7 +160,7 @@ ___________________________________________________________________________
 
 
 <br /><br />
-<img align="left" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
+<img width="400" align="left" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
 <br /><br />𝐀𝐝𝐨𝐛𝐞:
 <br />• Adobe Photoshop<br />
 • Adobe After Effects<br />
