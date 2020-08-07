@@ -46,7 +46,7 @@ ___________________________________________________________________________
 <table align="center"><tr>
 <td align="center" width="9999">
 <br />
-<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="500" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
   
 
@@ -69,7 +69,7 @@ ___________________________________________________________________________
 </strong><br />
 
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 </td>
 </tr>
 </table>
@@ -131,20 +131,20 @@ ___________________________________________________________________________
 
 <strong>
   PHP
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 </strong><br />
 
 
 
 <strong>
   Regex
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg" />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg" />
 </strong><br />
 
 
 <strong>
   Bash/CMD
-  <img width="15" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
+  <img width="10" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
 </strong><br />
 
 
@@ -220,7 +220,7 @@ ___________________________________________________________________________
 
 <strong>
   Puppeteer
-  <img width="15" src="https://pptr.dev/images/pptr.png" />
+  <img width="10" src="https://pptr.dev/images/pptr.png" />
 </strong><br />
 
 
@@ -241,7 +241,7 @@ ___________________________________________________________________________
  Chromium
   <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
 </strong>
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br />
 </td></tr></table>
 
 
@@ -449,15 +449,32 @@ XAMPP
 
 
 
-
-
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/10PNyg7YOcaBQA/giphy.gif" />
-<br /><br />𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬:
-<br />• PhpMyAdmin<br />
-• MySQL<br />
-• MongoDB<br />
+<br />
+<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/jwE2jTw1I85ofr1lXV/giphy.gif" />
+<h1 align="center"> 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨 </h1>
+  
+  
+<strong>
+PhpMyAdmin
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg" />
+</strong><br />
+  
+    
+<strong>
+MySQL
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />
+</strong><br />
+
+   
+<strong>
+MongoDB
+  <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" />
+</strong><br />
+  
+
+<br /><br /><br /><br /><br /><br />
 </td></tr></table>
 
 
@@ -470,13 +487,59 @@ XAMPP
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
+<br />
 <img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif" />
-<br /><br />𝐂𝐌𝐒:
-<br />• Opencart<br />
-• Wordpress<br />
+<h1 align="center"> 𝘾𝙈𝙎 </h1>
+  
+  
+<strong>
+Opencart
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCart_logo.svg" />
+</strong><br />
+  
+    
+<strong>
+Wordpress
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" />
+</strong><br />
+
+
+
+<br /><br /><br /><br /><br />
 </td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
