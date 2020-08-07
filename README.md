@@ -57,17 +57,66 @@ ___________________________________________________________________________
 <img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]<strong>Node.js</strong><br />
+<strong>
+  Node.js
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+</strong><br />
 
-► <strong>Javascript</strong><br />
-► <strong>CSS</strong><br />
-► <strong>HTML</strong><br />
-► <strong>SVG</strong><br />
-► <strong>PHP</strong><br />
-► <strong>Regex</strong><br />
-► <strong>Bash</strong><br />
-► <strong>CMD</strong><br />
-► <strong>Electron.js</strong>
+<strong>
+  Javascript
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+</strong><br />
+
+<strong>
+  CSS
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</strong><br />
+
+
+<strong>
+  HTML
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+</strong><br />
+
+
+
+<strong>
+  SVG
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" />
+</strong><br />
+
+<strong>
+  PHP
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+</strong><br />
+
+
+
+<strong>
+  Regex
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg" />
+</strong><br />
+
+
+<strong>
+  Bash
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</strong><br />
+
+
+
+<strong>
+  CMD
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</strong><br />
+
+
+
+<strong>
+  Electron.js
+  <img width="15" src="https://de.wikipedia.org/wiki/Electron_(Framework)#/media/Datei:Electron_Software_Framework_Logo.svg" />
+</strong><br />
+
 <br /><br />
 </td></tr></table>
 
