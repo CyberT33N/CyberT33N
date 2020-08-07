@@ -554,15 +554,60 @@ Wordpress
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.gif" />
-<br /><br />𝐀𝐏𝐈:
-<br />• Discord API<br />
-• Google Sheet API<br />
-• Google Drive API<br />
-• YouTube API<br />
-• Dropbox API<br />
-• OneDrive API<br />
-• Box API<br />
+<br />
+<img width="450" align="right" alt="GIF" src="https://i.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.webp" />
+<h1 align="center"> 𝘼𝙋𝙄 </h1>
+  
+ 
+    
+<strong>
+Discord API
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/fr/0/05/Discord.svg" />
+</strong><br />
+
+  
+<strong>
+Google Sheet API
+  <img width="10" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Google_Docs_logo.svg" />
+</strong><br />
+
+
+<strong>
+Google Drive API
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Logo_of_Google_Drive.svg" />
+</strong><br />
+
+
+
+<strong>
+YouTube API
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/YouTube_icon.png" />
+</strong><br />
+
+
+
+
+<strong>
+Dropbox API
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Dropbox_Icon.svg" />
+</strong><br />
+
+
+
+<strong>
+OneDrive API
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Microsoft_Office_OneDrive_%282018%E2%80%93present%29.svg" />
+</strong><br />
+
+
+
+<strong>
+Box API
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Box%2C_Inc._logo.svg/1920px-Box%2C_Inc._logo.svg.png" />
+</strong><br />
+
+
+<br /><br /><br /><br />
 </td></tr></table>
 
 
