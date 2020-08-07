@@ -1,7 +1,7 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://avatars1.githubusercontent.com/u/17134633?s=460&u=e3c84d2b31da84185f0559606738b44015664332&v=4" align="center" width="150" alt="Project icon">
+<img src="https://i.imgur.com/JSoB31M.png" align="center" width="150" alt="Project icon">
 
-#  ᑕƳᗷᗴᖇ丅33ᑎ™ (Dennis Demand)
+# 𝘿𝙚𝙣𝙣𝙞𝙨 𝘿𝙚𝙢𝙖𝙣𝙙
 
 <a href="https://www.linkedin.com/in/CyberT33N/">
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
