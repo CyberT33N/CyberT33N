@@ -276,13 +276,13 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<br /><br />
+<br />
 <img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
 <h1 align="center"> 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 </h1>
   
 <strong>
  Anime.js
-  <img width="20" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/10/1477673935anime-logo.png" />
+  <img width="40" src="https://i.imgur.com/pYPM5eg.png" />
 </strong><br />
 
 <strong>
@@ -293,7 +293,7 @@ ___________________________________________________________________________
 
 <strong>
  jQuery
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
 </strong><br />
 
 
@@ -337,22 +337,114 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
-<br /><br />𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬:
-<br />• Express.js<br />
-• Socket.io<br />
-• REST API<br />
-• VPS<br />
-• Apache<br />
-• Heroku<br />
-• Digital Ocean<br />
-• Domain<br />
-• Web/Virtualmin<br />
-• SSL<br />
-• FFmpeg<br />
-• SMTP<br />
-• XAMPP<br />
+<br />
+<img width="450" align="right" alt="GIF" src="https://media.giphy.com/media/QX6ZKC7HMcCKMQ4fH9/giphy.gif" />
+<h1 align="center"> 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙 & 𝘿𝙚𝙫𝙊𝙥𝙨 </h1>
+  
+<strong>
+ Express.js
+  <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />
+</strong><br />
+
+
+<strong>
+ Socket.io
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
+</strong><br />
+
+
+<strong>
+ REST API
+  <img width="20" src="https://image.flaticon.com/icons/svg/1554/1554122.svg" />
+</strong><br />
+
+
+
+
+<strong>
+VPS
+  <img width="15" src="https://image.flaticon.com/icons/svg/2333/2333012.svg" />
+</strong><br />
+
+
+
+<strong>
+Apache
+  <img width="10" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" />
+</strong><br />
+
+
+<strong>
+Heroku
+  <img width="40" src="https://upload.wikimedia.org/wikipedia/en/a/a9/Heroku_logo.png" />
+</strong><br />
+
+
+
+<strong>
+Digital Ocean
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" />
+</strong><br />
+
+
+<strong>
+Domain
+  <img width="20" src="https://image.flaticon.com/icons/svg/841/841364.svg" />
+</strong><br />
+
+
+<strong>
+Web/Virtualmin
+  <img width="60" src="https://miro.medium.com/max/875/1*TmsCRVY5nJSJebijQwZiPA.png" />
+</strong><br />
+
+
+<strong>
+SSL
+  <img width="15" src="https://image.flaticon.com/icons/svg/1320/1320569.svg" />
+</strong><br />
+
+
+<strong>
+FFmpeg
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg" />
+</strong><br />
+
+
+
+<strong>
+SMTP
+  <img width="15" src="https://image.flaticon.com/icons/svg/3011/3011178.svg" />
+</strong><br />
+
+
+
+<strong>
+XAMPP
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" />
+</strong><br />
+
+
 </td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
