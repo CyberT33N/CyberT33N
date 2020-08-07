@@ -52,20 +52,20 @@ ___________________________________________________________________________
 
 <strong>
   Windows (7-10)    
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
 </strong><br />
  
  
  
 <strong>
  MAC (El Capitan, Sierra, High Sierra) 
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/OS_X_El_Capitan_logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/OS_X_El_Capitan_logo.svg" />
 </strong><br />
  
   
 <strong>
  Linux (Ubuntu, Fedora, Linux Mint, Cent OS)
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-ubuntu_cof-white_orange-hex.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-ubuntu_cof-white_orange-hex.svg" />
 </strong><br />
 
 
@@ -102,30 +102,30 @@ ___________________________________________________________________________
 
 <strong>
   Node.js       
-  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </strong><br />
 
 <strong>
   Javascript
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 </strong><br />
 
 <strong>
   CSS
-  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </strong><br />
 
 
 <strong>
   HTML
-  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </strong><br />
 
 
 
 <strong>
   SVG
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" />
 </strong><br />
 
 
@@ -144,7 +144,7 @@ ___________________________________________________________________________
 
 <strong>
   Bash/CMD
-  <img width="20" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
+  <img width="15" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
 </strong><br />
 
 
@@ -152,7 +152,7 @@ ___________________________________________________________________________
 
 <strong>
   Electron.js
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
 </strong>
 <br /><br />
 </td></tr></table>
@@ -207,13 +207,13 @@ ___________________________________________________________________________
   
 <strong>
   Automation
-  <img width="20" src="https://image.flaticon.com/icons/svg/3181/3181421.svg" />
+  <img width="15" src="https://image.flaticon.com/icons/svg/3181/3181421.svg" />
 </strong><br />
 
  
 <strong>
   Scrap/Crawl
-  <img width="20" src="https://image.flaticon.com/icons/svg/202/202483.svg" />
+  <img width="15" src="https://image.flaticon.com/icons/svg/202/202483.svg" />
 </strong><br />
 
 
@@ -227,19 +227,19 @@ ___________________________________________________________________________
 
 <strong>
   Webdriver.io
-  <img width="20" src="https://webdriver.io/img/webdriverio.png" />
+  <img width="15" src="https://webdriver.io/img/webdriverio.png" />
 </strong><br />
 
 
 <strong>
   Cheerio.js
-  <img width="20" src="https://avatars2.githubusercontent.com/u/7230330?s=400&v=4" />
+  <img width="15" src="https://avatars2.githubusercontent.com/u/7230330?s=400&v=4" />
 </strong><br />
 
 
 <strong>
  Chromium
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
 </strong>
 <br /><br /><br /><br />
 </td></tr></table>
@@ -287,7 +287,7 @@ ___________________________________________________________________________
 
 <strong>
  Tippy.js
-  <img width="20" src="https://atomiks.github.io/tippyjs/static/logo-ebc385458e03fdb24af078536af88065.svg" />
+  <img width="15" src="https://atomiks.github.io/tippyjs/static/logo-ebc385458e03fdb24af078536af88065.svg" />
 </strong><br />
 
 
@@ -299,9 +299,9 @@ ___________________________________________________________________________
 
 <strong>
  Chromium Extensions
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
 </strong>
-<br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 </td></tr></table>
 
 
@@ -349,13 +349,13 @@ ___________________________________________________________________________
 
 <strong>
  Socket.io
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
 </strong><br />
 
 
 <strong>
  REST API
-  <img width="20" src="https://image.flaticon.com/icons/svg/1554/1554122.svg" />
+  <img width="15" src="https://image.flaticon.com/icons/svg/1554/1554122.svg" />
 </strong><br />
 
 
@@ -383,13 +383,13 @@ Heroku
 
 <strong>
 Digital Ocean
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" />
 </strong><br />
 
 
 <strong>
 Domain
-  <img width="20" src="https://image.flaticon.com/icons/svg/841/841364.svg" />
+  <img width="15" src="https://image.flaticon.com/icons/svg/841/841364.svg" />
 </strong><br />
 
 
