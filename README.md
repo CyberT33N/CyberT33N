@@ -41,11 +41,12 @@ ___________________________________________________________________________
 <h1 align="center"> ★ 𝐌𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 (𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬) ★ </h1>
 
 
+
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
 <br />
-<img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
   
 
@@ -68,10 +69,25 @@ ___________________________________________________________________________
 </strong><br />
 
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br />
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,7 +97,7 @@ ___________________________________________________________________________
 <table align="center"><tr>
 <td align="center" width="9999">
 <br />
-<img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 
 <strong>
@@ -127,16 +143,10 @@ ___________________________________________________________________________
 
 
 <strong>
-  Bash
+  Bash/CMD
   <img width="20" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
 </strong><br />
 
-
-
-<strong>
-  CMD
-  <img width="20" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
-</strong><br />
 
 
 
@@ -162,8 +172,35 @@ ___________________________________________________________________________
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
+<br />
 <img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <h1 align="center"> 𝘽𝙤𝙩𝙨 </h1>
   
@@ -183,7 +220,7 @@ ___________________________________________________________________________
 
 <strong>
   Puppeteer
-  <img width="20" src="https://pptr.dev/images/pptr.png" />
+  <img width="15" src="https://pptr.dev/images/pptr.png" />
 </strong><br />
 
 
@@ -203,9 +240,34 @@ ___________________________________________________________________________
 <strong>
  Chromium
   <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
-</strong><br />
-
+</strong>
+<br /><br /><br /><br />
 </td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -214,13 +276,57 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
-<br /><br />𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙:
-<br />• Anime.js<br />
-• Tippy.js<br />
-• jQuery<br />
-• Chromium Extensions<br />
+<br /><br />
+<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif" />
+<h1 align="center"> 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 </h1>
+  
+<strong>
+ Anime.js
+  <img width="20" src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/10/1477673935anime-logo.png" />
+</strong><br />
+
+<strong>
+ Tippy.js
+  <img width="20" src="https://atomiks.github.io/tippyjs/static/logo-ebc385458e03fdb24af078536af88065.svg" />
+</strong><br />
+
+
+<strong>
+ jQuery
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
+</strong><br />
+
+
+<strong>
+ Chromium Extensions
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
+</strong>
+<br /><br />
 </td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
