@@ -40,7 +40,7 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
 • Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
@@ -54,68 +54,69 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 
 <strong>
-  Node.js
-  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  Node.js       
+  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </strong><br />
 
 <strong>
   Javascript
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
 </strong><br />
 
 <strong>
   CSS
-  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </strong><br />
 
 
 <strong>
   HTML
-  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </strong><br />
 
 
 
 <strong>
   SVG
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/SVG_Logo.svg" />
 </strong><br />
+
 
 <strong>
   PHP
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 </strong><br />
 
 
 
 <strong>
   Regex
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Toolbaricon_RegEx.svg" />
 </strong><br />
 
 
 <strong>
   Bash
-  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img width="20" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
 </strong><br />
 
 
 
 <strong>
   CMD
-  <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img width="20" src="https://image.flaticon.com/icons/svg/36/36749.svg" />
 </strong><br />
 
 
 
 <strong>
   Electron.js
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
-</strong><br />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
+</strong><br /><br />
 
 <br /><br />
 </td></tr></table>
@@ -137,45 +138,45 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
+<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <h1 align="center"> 𝘽𝙤𝙩𝙨 </h1>
   
   
 <strong>
   Automation
-  <img width="15" src="https://image.flaticon.com/icons/svg/3181/3181421.svg" />
+  <img width="20" src="https://image.flaticon.com/icons/svg/3181/3181421.svg" />
 </strong><br />
 
  
 <strong>
   Scrap/Crawl
-  <img width="15" src="https://image.flaticon.com/icons/svg/202/202483.svg" />
+  <img width="20" src="https://image.flaticon.com/icons/svg/202/202483.svg" />
 </strong><br />
 
 
 
 <strong>
   Puppeteer
-  <img width="15" src="https://pptr.dev/images/pptr.png" />
+  <img width="20" src="https://pptr.dev/images/pptr.png" />
 </strong><br />
 
 
 
 <strong>
   Webdriver.io
-  <img width="15" src="https://webdriver.io/img/webdriverio.png" />
+  <img width="20" src="https://webdriver.io/img/webdriverio.png" />
 </strong><br />
 
 
 <strong>
   Cheerio.js
-  <img width="15" src="https://avatars2.githubusercontent.com/u/7230330?s=400&v=4" />
+  <img width="20" src="https://avatars2.githubusercontent.com/u/7230330?s=400&v=4" />
 </strong><br />
 
 
 <strong>
  Chromium
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
 </strong><br />
 
 </td></tr></table>
