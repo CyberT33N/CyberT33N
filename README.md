@@ -637,7 +637,7 @@ Box API
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
 <br />
-<img width="550" align="right" alt="GIF" src="https://i.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.webp" />
+<img width="450" align="right" alt="GIF" src="https://media.giphy.com/media/Y3RpfxT7T7QU8/giphy.gif" />
 <h1 align="center"> 𝙄𝙨𝙤𝙡𝙖𝙩𝙞𝙤𝙣 </h1>
   
 
@@ -658,11 +658,11 @@ VeraCrypt (GUI & CLI)
 
 <strong>
 VPN/Proxy/Socks5 (OpenVPN, NordVPN)
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" />
+  <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" />
 </strong><br />
 
 
-<br /><br /><br /><br /><br /><br />
+<br /><br />
 </td></tr></table>
 
 
@@ -693,16 +693,42 @@ VPN/Proxy/Socks5 (OpenVPN, NordVPN)
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.gif" />
-<br /><br />𝐀𝐝𝐨𝐛𝐞:
-<br />• Adobe Photoshop<br />
-• Adobe After Effects<br />
-• Adobe InDesign<br />
-• Adobe Illustrator<br />
+<br />
+<img width="300" align="left" alt="GIF" src="https://i.giphy.com/media/3o7btXYBdJbW7QPKLu/giphy.webp" />
+<h1 align="center"> 𝘼𝙙𝙤𝙗𝙚 </h1>
+  
+
+
+<strong>
+Adobe Photoshop
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Adobe_Photoshop_CS6_icon.svg" />
+</strong><br />
+
+
+<strong>
+Adobe After Effects
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1024px-Adobe_After_Effects_CC_icon.svg.png" />
+</strong><br />
+
+
+<strong>
+Adobe InDesign
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" />
+</strong><br />
+
+
+<strong>
+Adobe Illustrator
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />
+</strong><br />
+
+
+
+<br /><br /><br /><br /><br />
 </td></tr></table>
 
 
-<br />
+<br /><br />
 ___________________________________________________________________________
 <br /><br />
 <p align="center"> 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐩𝐢𝐪𝐮𝐞𝐝 𝐲𝐨𝐮𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐨𝐮𝐥𝐝 𝐠𝐢𝐯𝐞 𝐦𝐞 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰. </p>
