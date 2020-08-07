@@ -4,7 +4,11 @@
 #  ᑕƳᗷᗴᖇ丅33ᑎ™ (Dennis Demand)
 
 <a href="https://www.linkedin.com/in/CyberT33N/">
-  <img alt="CyberT33N LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
+</a>
+
+<a href="https://resume.cybert33n.com">
+  <img width="30" src="https://image.flaticon.com/icons/svg/757/757168.svg" />
 </a>
 </td></tr></table>
 
@@ -40,7 +44,7 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
+<img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
 • Windows (7-10)<br />
 • MAC (El Capitan, Sierra, High Sierra)<br />
@@ -54,7 +58,7 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
-<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 
 <strong>
@@ -116,9 +120,7 @@ ___________________________________________________________________________
 <strong>
   Electron.js
   <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
-</strong><br /><br />
-
-<br /><br />
+</strong>
 </td></tr></table>
 
 
@@ -138,7 +140,7 @@ ___________________________________________________________________________
 
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="600" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
+<img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <h1 align="center"> 𝘽𝙤𝙩𝙨 </h1>
   
   
