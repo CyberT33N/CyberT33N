@@ -23,8 +23,8 @@
 <br /><br />
 <p align="center">★ SERVICE ★
 <br />✅ 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 🤖<br />
-✅ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬, 𝐌𝐀𝐂 & 𝐋𝐢𝐧𝐮𝐱 💻<br />
 ✅ 𝟏𝟎 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 ☕<br />
+✅ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬, 𝐌𝐀𝐂 & 𝐋𝐢𝐧𝐮𝐱 💻<br />
 ✅ 𝘛𝘩𝘦 𝙘𝙝𝙚𝙖𝙥𝙚𝙨𝙩 𝙥𝙧𝙞𝙘𝙚 𝘧𝘰𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💲<br />
 </p>
 
@@ -56,16 +56,18 @@ ___________________________________________________________________________
 <td align="center" width="9999">
 <img width="550" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
-• Node.js<br />
-• Javascript<br />
-• CSS<br />
-• HTML<br />
-• SVG<br />
-• PHP<br />
-• Regex<br />
-• Bash<br />
-• CMD<br />
-• Electron.js
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]<strong>Node.js</strong><br />
+
+► <strong>Javascript</strong><br />
+► <strong>CSS</strong><br />
+► <strong>HTML</strong><br />
+► <strong>SVG</strong><br />
+► <strong>PHP</strong><br />
+► <strong>Regex</strong><br />
+► <strong>Bash</strong><br />
+► <strong>CMD</strong><br />
+► <strong>Electron.js</strong>
 <br /><br />
 </td></tr></table>
 
