@@ -555,7 +555,7 @@ Wordpress
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
 <br />
-<img width="450" align="right" alt="GIF" src="https://i.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.webp" />
+<img width="450" align="left" alt="GIF" src="https://i.giphy.com/media/PiuL0MyzhlQv9fkNrY/giphy.webp" />
 <h1 align="center"> 𝘼𝙋𝙄 </h1>
   
  
@@ -617,14 +617,73 @@ Box API
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
-<img width="400" align="right" alt="GIF" src="https://media.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.gif" />
-<br /><br />𝐈𝐬𝐨𝐥𝐚𝐭𝐢𝐨𝐧:
-<br />• Virtualbox<br />
-• VeraCrypt (GUI & CLI)<br />
-• VPN/Proxy/Socks5 (OpenVPN, NordVPN)<br />
+<br />
+<img width="550" align="right" alt="GIF" src="https://i.giphy.com/media/MFabj1E9mgUsqwVWHu/giphy.webp" />
+<h1 align="center"> 𝙄𝙨𝙤𝙡𝙖𝙩𝙞𝙤𝙣 </h1>
+  
+
+
+<strong>
+Virtualbox
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
+</strong><br />
+
+
+<strong>
+VeraCrypt (GUI & CLI)
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/VeraCrypt_Logo.svg/1280px-VeraCrypt_Logo.svg.png" />
+</strong><br />
+
+
+
+
+<strong>
+VPN/Proxy/Socks5 (OpenVPN, NordVPN)
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" />
+</strong><br />
+
+
+<br /><br /><br /><br /><br /><br />
 </td></tr></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
