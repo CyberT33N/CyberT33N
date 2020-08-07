@@ -44,12 +44,34 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
+<br />
 <img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
 <h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
-• Windows (7-10)<br />
-• MAC (El Capitan, Sierra, High Sierra)<br />
-• Linux (Ubuntu, Fedora, Linux Mint, Cent OS)<br />
-</td></tr></table>
+  
+
+<strong>
+  Windows (7-10)    
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
+</strong><br />
+ 
+ 
+ 
+<strong>
+ MAC (El Capitan, Sierra, High Sierra) 
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/OS_X_El_Capitan_logo.svg" />
+</strong><br />
+ 
+  
+<strong>
+ Linux (Ubuntu, Fedora, Linux Mint, Cent OS)
+  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-ubuntu_cof-white_orange-hex.svg" />
+</strong><br />
+
+
+<br /><br /><br /><br /><br /><br /><br />
+</td>
+</tr>
+</table>
 
 
 
@@ -58,6 +80,7 @@ ___________________________________________________________________________
 <br /><br />
 <table align="center"><tr>
 <td align="center" width="9999">
+<br />
 <img width="575" align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 <h1 align="center"> 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨 </h1>
 
@@ -121,6 +144,7 @@ ___________________________________________________________________________
   Electron.js
   <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
 </strong>
+<br /><br />
 </td></tr></table>
 
 
