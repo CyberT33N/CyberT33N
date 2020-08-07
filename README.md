@@ -452,7 +452,7 @@ XAMPP
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
 <br />
-<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/jwE2jTw1I85ofr1lXV/giphy.gif" />
+<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif" />
 <h1 align="center"> 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨 </h1>
   
   
