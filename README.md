@@ -13,7 +13,7 @@
 <br /><br /><br /><br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-<p align="center">
+<p align="left">
 ★ SUPPORT ★
 <br />✅ 𝘞𝘰𝘳𝘬 𝘛𝘪𝘮𝘦 𝟐𝟒/𝟕 🕜<br />
 ✅ 𝙁𝙍𝙀𝙀 𝙇𝙄𝙁𝙀𝙏𝙄𝙈𝙀 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 💭<br />
@@ -21,7 +21,7 @@
 
 
 <br /><br />
-<p align="center">★ SERVICE ★
+<p align="left">★ SERVICE ★
 <br />✅ 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 🤖<br />
 ✅ 𝟏𝟎 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 ☕<br />
 ✅ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬, 𝐌𝐀𝐂 & 𝐋𝐢𝐧𝐮𝐱 💻<br />
@@ -114,7 +114,7 @@ ___________________________________________________________________________
 
 <strong>
   Electron.js
-  <img width="15" src="https://de.wikipedia.org/wiki/Electron_(Framework)#/media/Datei:Electron_Software_Framework_Logo.svg" />
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" />
 </strong><br />
 
 <br /><br />
@@ -128,16 +128,56 @@ ___________________________________________________________________________
 
 
 
+
+
+
+
+
+
+
 <br /><br />
 <table align="center"><tr><td align="center" width="9999">
 <img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/J3Rih0gbM8Whkf5GYm/giphy.gif" />
 <h1 align="center"> 𝘽𝙤𝙩𝙨 </h1>
-• Automation<br />
-• Scrap/Crawl<br />
-• Puppeteer<br />
-• Webdriver.io<br />
-• Cheerio.js<br />
-• Chromium<br />
+  
+  
+<strong>
+  Automation
+  <img width="15" src="https://image.flaticon.com/icons/svg/3181/3181421.svg" />
+</strong><br />
+
+ 
+<strong>
+  Scrap/Crawl
+  <img width="15" src="https://image.flaticon.com/icons/svg/202/202483.svg" />
+</strong><br />
+
+
+
+<strong>
+  Puppeteer
+  <img width="15" src="https://pptr.dev/images/pptr.png" />
+</strong><br />
+
+
+
+<strong>
+  Webdriver.io
+  <img width="15" src="https://webdriver.io/img/webdriverio.png" />
+</strong><br />
+
+
+<strong>
+  Cheerio.js
+  <img width="15" src="https://avatars2.githubusercontent.com/u/7230330?s=400&v=4" />
+</strong><br />
+
+
+<strong>
+ Chromium
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Chromium_11_Logo.svg" />
+</strong><br />
+
 </td></tr></table>
 
 
