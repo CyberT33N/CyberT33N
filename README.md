@@ -1,7 +1,11 @@
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/JSoB31M.png" align="center" width="150" alt="Project icon">
 
-# 𝘿𝙚𝙣𝙣𝙞𝙨 𝘿𝙚𝙢𝙖𝙣𝙙
+<h1> ᗪEᑎᑎIᔕ ᗪEᗰᗩᑎᗪ
+<br />
+𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛
+</h1>
+
 
 <a href="https://www.linkedin.com/in/CyberT33N/">
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
