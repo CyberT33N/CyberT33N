@@ -1,7 +1,7 @@
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/JSoB31M.png" align="center" width="150" alt="Project icon">
 
-<h1> ᗪEᑎᑎIᔕ ᗪEᗰᗩᑎᗪ
+<h1> ᗪEᑎᑎI𝙎 ᗪEᗰᗩᑎᗪ
 <br />
 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛
 </h1>
