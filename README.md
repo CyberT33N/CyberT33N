@@ -394,7 +394,7 @@ Digital Ocean
 
 <strong>
 Google Cloud
-  <img width="15" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
+  <img width="30" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
 </strong><br />
 
 
