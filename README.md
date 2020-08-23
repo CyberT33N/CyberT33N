@@ -391,6 +391,14 @@ Digital Ocean
 </strong><br />
 
 
+
+<strong>
+Google Cloud
+  <img width="15" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" />
+</strong><br />
+
+
+
 <strong>
 Domain
   <img width="15" src="https://image.flaticon.com/icons/svg/841/841364.svg" />
