@@ -14,6 +14,10 @@
 <a href="https://resume.cybert33n.com">
   <img width="30" src="https://image.flaticon.com/icons/svg/757/757168.svg" />
 </a>
+
+<a href="https://gitlab.com/CyberT33N">
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/GitLab_Logo.svg" />
+</a>
 </td></tr></table>
 
 
