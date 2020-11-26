@@ -119,6 +119,12 @@ ___________________________________________________________________________
 </strong><br />
 
 <strong>
+  Typescript
+  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+</strong><br />
+
+
+<strong>
   CSS
   <img width="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </strong><br />
@@ -367,6 +373,11 @@ ___________________________________________________________________________
 </strong><br />
 
 
+<strong>
+ Docker
+  <img width="15" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+</strong><br />
+
 
 
 <strong>
@@ -446,6 +457,44 @@ XAMPP
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<br /><br />
+<table align="center"><tr><td align="center" width="9999">
+<br />
+<img width="550" align="left" alt="GIF" src="https://media.giphy.com/media/5kFygpSmT29AHdPF2J/giphy.gif" />
+<h1 align="center"> 𝙏𝘿𝘿 / 𝘽𝘿𝘿 </h1>
+  
+  
+<strong>
+Mocha.js
+  <img width="15" src="https://camo.githubusercontent.com/58045a79a69afea4cab1cea6def6d911fba3956cf5fd683addf41c032aa64088/68747470733a2f2f636c6475702e636f6d2f78465646784f696f41552e737667" />
+</strong><br />
+  
+    
+<strong>
+Expect.js
+  <img width="20" src="https://jestjs.io/img/opengraph.png" />
+</strong><br />
+
+   
+<strong>
+jsdom
+  <img width="15" src="https://raw.githubusercontent.com/jsdom/jsdom/master/logo.svg" />
+</strong><br />
+  
+
+<br /><br /><br /><br /><br /><br /><br /><br />
+</td></tr></table>
 
 
 
