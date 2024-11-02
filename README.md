@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://i.imgur.com/ZtbyAMe.png" align="center" width="150" alt="Project icon">
+<img src="https://i.imgur.com/ZtbyAMe.png" align="center" width="100%" alt="Project icon">
 
 <h1> ᗪEᑎᑎI𝙎 ᗪEᗰᗩᑎᗪ
 <br />
