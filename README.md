@@ -7,7 +7,7 @@
 </h1>
 
 
-<a href="https://www.linkedin.com/in/CyberT33N/">
+<a href="https://www.linkedin.com/in/dennis-dd">
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 
