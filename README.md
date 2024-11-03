@@ -1,3 +1,9 @@
+<style>
+    h1 {
+        font-size: 1vw;
+    }
+</style>
+
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/tybUFP8.png" align="center" width="100%" alt="Project icon">
 
