@@ -12,7 +12,7 @@
 </h1>
 
 
-<div >
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/dennis-dd">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn"/>
   </a>
