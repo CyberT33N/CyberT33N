@@ -1,15 +1,9 @@
-<style>
-    h1 {
-        font-size: 1vw;
-    }
-</style>
-
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/tybUFP8.png" align="center" width="100%" alt="Project icon">
 
 <br>
 
-<h1 style="font-size: 10px"> ᗪ乇几几工丂 ᗪ乇爪卂几ᗪ
+<h1> ᗪ乇几几工丂 ᗪ乇爪卂几ᗪ
 
 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛
 </h1>
