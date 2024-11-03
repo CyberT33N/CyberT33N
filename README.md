@@ -1,29 +1,28 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<div align="center">
-    <img src="test.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/tybUFP8.png" align="center" width="100%" alt="Project icon">
 
 <br>
 
+
 <h1> ᗪ乇几几工丂 ᗪ乇爪卂几ᗪ
 
+<sup>
 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛
-</h1>
+</sup>
 
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div>
   <a href="https://www.linkedin.com/in/dennis-dd">
-    <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn"/>
+    <img width="10vw" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn"/>
   </a>
   <a href="https://www.xing.com/profile/Dennis_Demand05690">
     <img width="30" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing"/>
   </a>
 </div>
+
+<br>
+
+</h1>
+
 
 
 
