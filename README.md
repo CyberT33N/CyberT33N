@@ -1,19 +1,54 @@
+
+<!-- ============[STYLES]============ -->
+
 <style>
     h1 {
-        font-size: 1vw;
+        font-size: 5vw;
+    }
+
+    .box {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      gap: 1em;
+    }
+
+    .box > div {
+        font-size: 1.25vw; 
+        flex: 1;
+        text-align: left;
+        margin-left: 1em;
+        padding-top: 2em;
+    }
+
+    .box {
+      font-weight:bold;
+    }
+
+    .box > img {
+      width: 50%;
+      height: auto;
+      border-radius: 1.5em;
+      margin: 2em;
+    }
+
+    .box > i, .box > b {
+      font-size: 3em;
     }
 </style>
+
+
+<!-- ============[HEADER]============ -->
+
 
 <table align="center"><tr><td align="center" width="9999">
 <img src="https://i.imgur.com/tybUFP8.png" align="center" width="100%" alt="Project icon">
 
-<br>
+<br><br>
 
-<h1 style="font-size: 10px"> ᗪ乇几几工丂 ᗪ乇爪卂几ᗪ
+<h1> ᗪ乇几几工丂 ᗪ乇爪卂几ᗪ
 
-𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛
-</h1>
-
+<p style="font-size:2.5vw;">𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 & 𝚆𝙴𝙱 𝙳𝚎𝚜𝚒𝚐𝚗𝚎𝚛</p>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/dennis-dd">
@@ -24,71 +59,108 @@
   </a>
 </div>
 
+<br>
 
+</h1>
 
 </td></tr></table>
 
 
 
-<br><br><br><br>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-
-<p align="left">
-★ SUPPORT ★
-<br>✅ 𝘞𝘰𝘳𝘬 𝘛𝘪𝘮𝘦 𝟐𝟒/𝟕 🕜<br>
-✅ 𝙁𝙍𝙀𝙀 𝙇𝙄𝙁𝙀𝙏𝙄𝙈𝙀 𝘚𝘶𝘱𝘱𝘰𝘳𝘵 💭<br>
-</p>
-
+<!-- ============[SUPPORT]============ -->
 
 <br><br>
-<p align="left">★ SERVICE ★
-<br>✅ 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝘚𝘰𝘧𝘵𝘸𝘢𝘳𝘦 🤖<br>
-✅ 𝟏𝟎 𝙮𝙚𝙖𝙧𝙨 𝙤𝙛 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 ☕<br>
-✅ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬, 𝐌𝐀𝐂 & 𝐋𝐢𝐧𝐮𝐱 💻<br>
-✅ 𝘛𝘩𝘦 𝙘𝙝𝙚𝙖𝙥𝙚𝙨𝙩 𝙥𝙧𝙞𝙘𝙚 𝘧𝘰𝘳 𝘤𝘰𝘮𝘱𝘭𝘦𝘹 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴 💲<br>
-</p>
 
-<br><br>
-___________________________________________________________________________
+<div class="box">
+  <div>
+    <div>
+      <h1 align="left">Support</h1>
+      ➤ <i>Work Time <b>24/7</b></i> 🕜<br>
+      ➤ <b>FREE LIFETIME Support</b> 💭<br>
+    </div>
 
-
-
-<br><br><br><br><br><br>
-<h1 align="center"> ★ 𝐌𝐘 𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 (𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝, 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 & 𝐃𝐞𝐯𝐎𝐩𝐬) ★ </h1>
-
-
-
-<br><br>
-<table align="center"><tr>
-<td align="center" width="9999">
-<br>
-<img width="500" align="right" alt="GIF" src="https://media.giphy.com/media/hJaQNVrOPC4Ja/giphy.gif" />
-<h1 align="center"> 𝙊𝙥𝙚𝙧𝙖𝙩𝙞𝙣𝙜 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 </h1>
+  <br><br>
   
+  <div style="font-size: 1.5em;">
+      <h1 align="left">Service</h1>
+      ➤ <i>Professional Software</i> 🤖<br>
+      ➤ <i><b>10 years</b> of experience</i> ☕<br>
+      ➤ <i>Windows, MAC & Linux</i> 💻<br>
+      ➤ <i>The <b>cheapest price</b> for complex Projects</i> 💲<br>
+  </div>
+</div>
 
-<strong>
-  Windows (7-10)    
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" />
-</strong><br>
- 
- 
- 
-<strong>
- MAC (El Capitan, Sierra, High Sierra) 
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/OS_X_El_Capitan_logo.svg" />
-</strong><br>
- 
-  
-<strong>
- Linux (Ubuntu, Fedora, Linux Mint, Cent OS)
-  <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logo-ubuntu_cof-white_orange-hex.svg" />
-</strong><br>
+<img alt="fullstack services" src="https://i.imgur.com/Tn8Vyfd.png" />
+</div>
 
 
-<br><br><br><br><br><br><br>
-</td>
-</tr>
-</table>
+
+
+
+
+
+
+
+
+
+
+<br><br><br>
+---
+<br><br><br>
+
+<!-- ============[SKILLS HEADER]============ -->
+<img src="https://i.imgur.com/YQfFXw8.png" width="100%">
+
+
+
+
+<!-- ============[PROJECT MANAGMENT]============ -->
+
+<br><br>
+
+
+
+
+<div class="box">
+
+<img style="width: 50%; height: auto; border-radius:1.5em; margin: 2em;" alt="project mannagment" src="https://i.imgur.com/WR48ZZE.png" />
+
+<div style="flex: 1; text-align: left; margin-left: 1em; padding-top: 2em;" >
+   <div style="font-size: 1.5em;">
+    <h1 align="left" style="font-weight:bold;">Jira <p>⭐️⭐️⭐️⭐️☆</p></h1>
+    ➤ Task Management, Bug Tracking, Agile Boards</i>
+    <br>
+</div>
+<br><br>
+<div style="font-size: 1.5em;">
+    <h1 align="left" style="font-weight:bold;">Scrum ⭐️⭐️⭐️⭐️☆</h1>
+    ➤ <i>Professional Software</i> 🤖<br>
+    ➤ <i><b>10 years</b> of experience</i> ☕<br>
+    ➤ <i>Windows, MAC & Linux</i> 💻<br>
+    ➤ <i>The <b>cheapest price</b> for complex Projects</i> 💲<br>
+</div>
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -805,5 +877,9 @@ Adobe Illustrator
 ___________________________________________________________________________
 <br>
 <p align="center"> 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐩𝐢𝐪𝐮𝐞𝐝 𝐲𝐨𝐮𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐨𝐮𝐥𝐝 𝐠𝐢𝐯𝐞 𝐦𝐞 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰. 
-<br>𝐆𝐫𝐞𝐞𝐭𝐬 𝐃𝐞𝐧𝐧𝐢𝐬
+<br>
+𝐆𝐫𝐞𝐞𝐭𝐬 𝐃𝐞𝐧𝐧𝐢𝐬 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
