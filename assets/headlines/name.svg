@@ -76,6 +76,7 @@
                     color: white;
                     overflow: hidden;
                     text-align: center;
+                    margin-top: 50px;
                 }
 
                 /* Überschrift */
@@ -83,7 +84,6 @@
                     text-transform: uppercase;
                     font-size: 80px;
                     color: #fff;
-                    padding: 20px;
                     animation: complex-animation 30s ease-in-out infinite;
                     white-space: nowrap;
                     margin: 0;
@@ -97,7 +97,7 @@
                     animation: glitch-animation 20s infinite; /* Flackernde Animation mit 20 Sekunden */
                     white-space: nowrap; /* Verhindert Zeilenumbruch */
                     position: relative;
-                    bottom: 0;
+                    bottom: 10px;
                 }
             </style>
 

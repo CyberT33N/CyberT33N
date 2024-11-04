@@ -16,11 +16,11 @@
   <!-- Icons für LinkedIn und Xing darunter zentrieren -->
   <div align="center">
     <a href="https://www.linkedin.com/in/dennis-dd">
-      <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
     </a>
     &nbsp;&nbsp; <!-- Abstand zwischen den Icons -->
     <a href="https://www.xing.com/profile/Dennis_Demand05690">
-      <img width="40" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
     </a>
     <br><br>
   </div>
