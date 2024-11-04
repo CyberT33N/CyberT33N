@@ -1,0 +1,108 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                /* Komplexe Animation mit 5 verschiedenen Effekten für h1 */
+                @keyframes complex-animation {
+                    0% {
+                        text-shadow: none;
+                        opacity: 1;
+                        color: #fff;
+                    }
+                    10% {
+                        text-shadow: 0 0 10px #fff, 0 0 20px #fa46bb, 0 0 30px #fa46bb, 0 0 40px #fa46bb;
+                    }
+                    25% {
+                        text-shadow: none;
+                    }
+                    40% {
+                        opacity: 1;
+                        text-shadow: 0 0 5px #fff, 0 0 15px #117fed, 0 0 30px #117fed;
+                        transform: scale(1.02);
+                    }
+                    100% {
+                        text-shadow: none;
+                        opacity: 1;
+                        color: #fff;
+                    }
+                }
+
+                /* Flackernde Animation für h2 */
+                @keyframes glitch-animation {
+                    0%, 20% {
+                        opacity: 1;
+                    }
+
+                    21% {
+                        opacity: 0.5; 
+                    }
+                    22% {
+                        opacity: 1; 
+                    }
+
+                    23% {
+                        opacity: 0.5; 
+                    }
+                    24%, 49% {
+                        opacity: 1; 
+                    }
+
+                    50% {
+                        opacity: 0.5; 
+                    }
+                    51%, 73% {
+                        opacity: 1; 
+                    }
+
+
+                    74% {
+                        opacity: 0.5; 
+                    }
+                    75%, 100% {
+                        opacity: 1; 
+                    }
+                }
+
+                /* Container */
+                .container {
+                    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 100%;
+                    height: 100%;
+                    background: transparent;
+                    color: white;
+                    overflow: hidden;
+                    text-align: center;
+                }
+
+                /* Überschrift */
+                h1 {
+                    text-transform: uppercase;
+                    font-size: 5.5em;
+                    color: #fff;
+                    padding: 0.2em;
+                    animation: complex-animation 30s ease-in-out infinite;
+                    white-space: nowrap;
+                    margin: 0;
+                }
+
+                /* Unterüberschrift */
+                h2 {
+                    font-size: 2.5em; /* Dynamische Schriftgröße */
+                    color: #fff;
+                    margin: 0; /* Kein Abstand zwischen h1 und h2 */
+                    animation: glitch-animation 20s infinite; /* Flackernde Animation mit 20 Sekunden */
+                    white-space: nowrap; /* Verhindert Zeilenumbruch */
+                }
+            </style>
+
+            <div class="container">
+                <h1>Dennis Demand</h1>
+                <h2>Full-stack Developer</h2>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
