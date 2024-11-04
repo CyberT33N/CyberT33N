@@ -81,9 +81,9 @@
                 /* Überschrift */
                 h1 {
                     text-transform: uppercase;
-                    font-size: 90px;
+                    font-size: 80px;
                     color: #fff;
-                    padding: 0.2em;
+
                     animation: complex-animation 30s ease-in-out infinite;
                     white-space: nowrap;
                     margin: 0;
@@ -97,7 +97,7 @@
                     animation: glitch-animation 20s infinite; /* Flackernde Animation mit 20 Sekunden */
                     white-space: nowrap; /* Verhindert Zeilenumbruch */
                     position: relative;
-                    bottom: 20px;
+                    bottom: 0;
                 }
             </style>
 
