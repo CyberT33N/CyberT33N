@@ -83,7 +83,7 @@
                     text-transform: uppercase;
                     font-size: 80px;
                     color: #fff;
-
+                    padding: 20px;
                     animation: complex-animation 30s ease-in-out infinite;
                     white-space: nowrap;
                     margin: 0;
