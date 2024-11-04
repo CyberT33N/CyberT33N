@@ -81,7 +81,7 @@
                 /* Überschrift */
                 h1 {
                     text-transform: uppercase;
-                    font-size: 5.5em;
+                    font-size: 90px;
                     color: #fff;
                     padding: 0.2em;
                     animation: complex-animation 30s ease-in-out infinite;
@@ -91,11 +91,13 @@
 
                 /* Unterüberschrift */
                 h2 {
-                    font-size: 2.5em; /* Dynamische Schriftgröße */
+                    font-size: 40px;
                     color: #fff;
                     margin: 0; /* Kein Abstand zwischen h1 und h2 */
                     animation: glitch-animation 20s infinite; /* Flackernde Animation mit 20 Sekunden */
                     white-space: nowrap; /* Verhindert Zeilenumbruch */
+                    position: relative;
+                    bottom: 20px;
                 }
             </style>
 

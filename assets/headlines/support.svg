@@ -63,7 +63,7 @@
                     font-size: 150px;
                     color: #fff;
                     perspective: 1000px;
-                    padding: 0.2em;
+                    padding: 30px;
                     position: relative;
                     animation: complex-animation 30s ease-in-out infinite;
                 }
