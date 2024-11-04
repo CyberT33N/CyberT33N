@@ -39,12 +39,12 @@
   <tr>
     <td align="left" width="40%">
       <div style="padding-right: 3vw;">
-        <img src="assets/headlines/support.svg" width="200px" alt="Support Icon" align="left">
+        <img src="assets/headlines/support.svg" width="100%" alt="Support Icon" align="left">
         <br><br><br><br><br>
         ➤ <i>Work Time</i> <i>24/7</b> 🕜<br>
         ➤ <b>REE LIFETIME Support</b> 💭
         <br>
-        <img src="assets/headlines/service.svg" width="200px" alt="Service Icon" align="left">
+        <img src="assets/headlines/service.svg" width="100%" alt="Service Icon" align="left">
         <br><br><br><br><br>
         ➤ <i>Professional Software</i> 🤖<br>
         ➤ <b>10 years</b> of experience ☕<br>
