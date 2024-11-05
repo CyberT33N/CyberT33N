@@ -1,19 +1,18 @@
 <!-- ============[HEADER]============ -->
-<table align="center">
-  <tr>
-  <td align="center" width="9999">
+
+<div align="center">
   <!-- Header-Banner -->
   <img src="https://i.imgur.com/tybUFP8.png" width="100%" alt="Project icon">
 
   <br>
 
   <!-- Name SVG als Banner darunter -->
-  <div align="center">
-    <img src="assets/headlines/name.svg" width="100%" alt="Header Banner">
-  </div>
+  <img src="assets/headlines/name.svg" width="100%" alt="Header Banner">
+
+  <br><br>
 
   <!-- Icons für LinkedIn und Xing darunter zentrieren -->
-  <div align="center">
+  <div>
     <a href="https://www.linkedin.com/in/dennis-dd">
       <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
     </a>
@@ -21,11 +20,8 @@
     <a href="https://www.xing.com/profile/Dennis_Demand05690">
       <img width="40px" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
     </a>
-    <br><br>
   </div>
-</td>
-  </tr>
-</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
 
