@@ -2,41 +2,22 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                /* Komplexe Animation mit 5 verschiedenen Effekten */
                 @keyframes complex-animation {
-                    /* Glow Effekt */
                     0% {
                         text-shadow: none;
                         transform: scale(1);
                         opacity: 1;
                         color: #fff;
                     }
-
                     10% {
                         text-shadow: 0 0 10px #fff, 0 0 20px #fa46bb, 0 0 30px #fa46bb, 0 0 40px #fa46bb;
-                        transform: scale(1.05);
                     }
-                    
-                    /* Fade-Out und Rotation */
                     25% {
-                        opacity: 0.3;
-                        transform: rotate(-10deg) scale(1);
                         text-shadow: none;
                     }
-
-                    /* Pulse Effekt */
                     40% {
-                        opacity: 1;
-                        transform: scale(1.11);
                         text-shadow: 0 0 5px #fff, 0 0 15px #117fed, 0 0 30px #117fed;
-                        
                     }
-
-                    45% {
-                        transform: scale(1);
-                    }
-                    
-                    /* Zurück zum Start */
                     100% {
                         text-shadow: none;
                         opacity: 1;
@@ -44,18 +25,49 @@
                     }
                 }
 
+                @keyframes glitch-animation {
+                    0%, 20% {
+                        opacity: 1;
+                    }
+                    21% {
+                        opacity: 0.5; 
+                    }
+                    22% {
+                        opacity: 1; 
+                    }
+                    23% {
+                        opacity: 0.5; 
+                    }
+                    24%, 49% {
+                        opacity: 1; 
+                    }
+                    50% {
+                        opacity: 0.5; 
+                    }
+                    51%, 73% {
+                        opacity: 1; 
+                    }
+                    74% {
+                        opacity: 0.5; 
+                    }
+                    75%, 100% {
+                        opacity: 1; 
+                    }
+                }
+
                 /* Container */
                 .container {
                     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
                     display: flex;
-                    flex-direction: column;
-                    align-items: flex-start;
-                    justify-content: center;
+                    align-items: center; /* Zentriert die Inhalte vertikal */
+                    justify-content: flex-start; /* Positioniert den Inhalt rechts */
                     width: 100%;
+                    height: 100%; /* Höhe anpassen für Flexbox-Zentrierung */
                     background: transparent;
                     color: white;
                     overflow: hidden;
                     text-align: left;
+                    position: relative;
                 }
 
                 /* Überschrift */
@@ -64,14 +76,26 @@
                     color: #fff;
                     perspective: 1000px;
                     padding-top: 100px;
-                    padding-left: 30px;
                     position: relative;
                     animation: complex-animation 30s ease-in-out infinite;
+                    margin-right: 10px; /* Abstand zu den Sternen */
+                }
+
+                /* Sterne */
+                .stars {
+                    font-size: 40px; /* Größe der Sterne */
+                    animation: glitch-animation 30s ease-in-out infinite;
+                }
+
+                .stars-empty {
+                    font-size: 40px; /* Größe der Sterne */
                 }
             </style>
 
             <div class="container">
-                <h1>Service</h1>
+                <h1>Scrum</h1>
+                <div class="stars">⭐️⭐️⭐️⭐️</div>
+                <div class="stars-empty">☆</div>
             </div>
         </div>
     </foreignObject>

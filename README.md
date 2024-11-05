@@ -1,13 +1,9 @@
 <!-- ============[HEADER]============ -->
-
 <table align="center">
   <tr>
   <td align="center" width="9999">
   <!-- Header-Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=footer" width="100%">
   <img src="https://i.imgur.com/tybUFP8.png" width="100%" alt="Project icon">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=header" width="100%">
-
 
   <br>
 
@@ -31,22 +27,17 @@
   </tr>
 </table>
 
-
-
-
-<!-- ============[SUPPORT]============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=footer" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
 
-
+<!-- ============[SUPPORT]============ -->
 <table>
   <tr>
     <td align="left" width="40%">
-      <div style="padding-right: 3vw;">
+      <div>
         <img src="assets/headlines/support.svg" width="100%" alt="Support Icon" align="left">
         <br><br><br><br><br>
         ➤ <i>Work Time</i> <i>24/7</b> 🕜<br>
-        ➤ <b>REE LIFETIME Support</b> 💭
+        ➤ <b>FREE LIFETIME Support</b> 💭
         <br>
         <img src="assets/headlines/service.svg" width="100%" alt="Service Icon" align="left">
         <br><br><br><br><br>
@@ -57,9 +48,7 @@
       </div>
     </td>
     <td align="right" width="40%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=footer" width="100%">
       <img src="https://i.imgur.com/Tn8Vyfd.png" alt="fullstack services" width="100%">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=header" width="100%">
     </td>
   </tr>
 </table>
@@ -76,10 +65,9 @@
 
 
 
-<br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
-
-<br>
+<br><br>
+---
+<br><br>
 
 <!-- ============[SKILLS HEADER]============ -->
 <img src="https://i.imgur.com/YQfFXw8.png" width="100%">
@@ -93,29 +81,27 @@
 
 
 
-
-<div class="box">
-
-<img alt="project mannagment" src="https://i.imgur.com/WR48ZZE.png" />
-
-<div>
-   <div>
-    <h1 align="left">Jira <p>⭐️⭐️⭐️⭐️☆</p></h1>
-    ➤ Task Management, Bug Tracking, Agile Boards</i>
-    <br>
-</div>
-<br><br>
-<div>
-    <h1 align="left">Scrum ⭐️⭐️⭐️⭐️☆</h1>
-    ➤ <i>Professional Software</i> 🤖<br>
-    ➤ <i><b>10 years</b> of experience</i> ☕<br>
-    ➤ <i>Windows, MAC & Linux</i> 💻<br>
-    ➤ <i>The <b>cheapest price</b> for complex Projects</i> 💲<br>
-</div>
-</div>
+<table>
+  <tr>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/jira.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Task Management, Bug Tracking, Agile Boards</i>
+        <br>
+        <img src="assets/headlines/skills/scrum.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Agile Development Methodology, Sprint Planning, Daily Standups</i>
+      </div>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://i.imgur.com/WR48ZZE.png" alt="fullstack services" width="100%">
+    </td>
+  </tr>
+</table>
 
 
-</div>
+
+
+
 
 
 
@@ -847,12 +833,15 @@ Adobe Illustrator
 
 
 <br><br>
-___________________________________________________________________________
+---
 <br>
-<p align="center"> 𝐈 𝐚𝐦 𝐡𝐚𝐩𝐩𝐲 𝐢𝐟 𝐈 𝐡𝐚𝐯𝐞 𝐩𝐢𝐪𝐮𝐞𝐝 𝐲𝐨𝐮𝐫 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭 𝐚𝐧𝐝 𝐲𝐨𝐮 𝐰𝐨𝐮𝐥𝐝 𝐠𝐢𝐯𝐞 𝐦𝐞 𝐭𝐡𝐞 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰. 
-<br>
-𝐆𝐫𝐞𝐞𝐭𝐬 𝐃𝐞𝐧𝐧𝐢𝐬 
+
+<p align="center">
+I would welcome the opportunity for a personal interview.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<div align="center" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FA46BB&center=true&random=true&width=435&lines=Best+regards%2C+Dennis" alt="Typing SVG" /></a>
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=150&section=footer" width="100%">
