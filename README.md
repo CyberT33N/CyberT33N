@@ -9,7 +9,6 @@
   <!-- Name SVG als Banner darunter -->
   <img src="assets/headlines/name.svg" width="100%" alt="Header Banner">
 
-  <br><br>
 
   <!-- Icons für LinkedIn und Xing darunter zentrieren -->
   <div>
@@ -22,6 +21,9 @@
     </a>
   </div>
 </div>
+
+<br><br>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
 
