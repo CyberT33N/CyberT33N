@@ -38,7 +38,6 @@
         ➤ <b>FREE LIFETIME Support</b> 💭
         <br>
         <img src="assets/headlines/service.svg" width="100%" alt="Service Icon" align="left">
-        <br><br><br><br><br>
         ➤ <i>Professional Software</i> 🤖<br>
         ➤ <b>10 years</b> of experience ☕<br>
         ➤ <i>Windows, MAC & Linux</i> 💻<br>
