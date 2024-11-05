@@ -31,18 +31,16 @@
 <table>
   <tr>
     <td align="left" width="40%">
-      <div>
-        <img src="assets/headlines/support.svg" width="100%" alt="Support Icon" align="left">
-        <br><br><br><br><br>
+        <img src="assets/headlines/support.svg" width="100%" alt="Support Icon">
+        <br>
         ➤ <i>Work Time</i> <i>24/7</b> 🕜<br>
         ➤ <b>FREE LIFETIME Support</b> 💭
-        <br>
+        <br><br><br>
         <img src="assets/headlines/service.svg" width="100%" alt="Service Icon" align="left">
         ➤ <i>Professional Software</i> 🤖<br>
         ➤ <b>10 years</b> of experience ☕<br>
         ➤ <i>Windows, MAC & Linux</i> 💻<br>
-        ➤ <i>The <b>cheapest price</b> for complex Projects</i> 💲
-      </div>
+        ➤ <i><b>Best price</b> for complex Projects</i> 💲
     </td>
     <td align="right" width="40%">
       <img src="https://i.imgur.com/Tn8Vyfd.png" alt="fullstack services" width="100%">

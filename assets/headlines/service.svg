@@ -1,42 +1,32 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 /* Komplexe Animation mit 5 verschiedenen Effekten */
                 @keyframes complex-animation {
-                    /* Glow Effekt */
                     0% {
                         text-shadow: none;
                         transform: scale(1);
                         opacity: 1;
                         color: #fff;
                     }
-
                     10% {
                         text-shadow: 0 0 10px #fff, 0 0 20px #fa46bb, 0 0 30px #fa46bb, 0 0 40px #fa46bb;
                         transform: scale(1.05);
                     }
-                    
-                    /* Fade-Out und Rotation */
                     25% {
                         opacity: 0.3;
                         transform: rotate(-10deg) scale(1);
                         text-shadow: none;
                     }
-
-                    /* Pulse Effekt */
                     40% {
                         opacity: 1;
                         transform: scale(1.11);
                         text-shadow: 0 0 5px #fff, 0 0 15px #117fed, 0 0 30px #117fed;
-                        
                     }
-
                     45% {
                         transform: scale(1);
                     }
-                    
-                    /* Zurück zum Start */
                     100% {
                         text-shadow: none;
                         opacity: 1;
@@ -48,24 +38,27 @@
                 .container {
                     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
                     display: flex;
-                    flex-direction: column;
-                    align-items: flex-start;
-                    justify-content: center;
+                    justify-content: start;
                     width: 100%;
+                    height: 100%;
                     background: transparent;
                     color: white;
                     overflow: hidden;
-                    text-align: left;
+                    padding: 50px;
+                    box-sizing: border-box; /* padding zum inneren Bereich hinzufügen */
+               
                 }
 
                 /* Überschrift */
                 h1 {
-                    font-size: 150px;
+                    font-size: 150px; /* Textgröße anpassen */
                     color: #fff;
                     perspective: 1000px;
-                    padding-top: 100px;
-                    padding-left: 30px;
+                    margin: 0;
+                    padding: 0;
                     position: relative;
+                    bottom: 25px;
+                    right: 20px;
                     animation: complex-animation 30s ease-in-out infinite;
                 }
             </style>
