@@ -4,7 +4,10 @@
   <tr>
   <td align="center" width="9999">
   <!-- Header-Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=footer" width="100%">
   <img src="https://i.imgur.com/tybUFP8.png" width="100%" alt="Project icon">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=header" width="100%">
+
 
   <br>
 
@@ -16,11 +19,11 @@
   <!-- Icons für LinkedIn und Xing darunter zentrieren -->
   <div align="center">
     <a href="https://www.linkedin.com/in/dennis-dd">
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
     </a>
     &nbsp;&nbsp; <!-- Abstand zwischen den Icons -->
     <a href="https://www.xing.com/profile/Dennis_Demand05690">
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
+      <img width="40px" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
     </a>
     <br><br>
   </div>
@@ -32,6 +35,7 @@
 
 
 <!-- ============[SUPPORT]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=footer" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
 
 
@@ -53,7 +57,9 @@
       </div>
     </td>
     <td align="right" width="40%">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=footer" width="100%">
       <img src="https://i.imgur.com/Tn8Vyfd.png" alt="fullstack services" width="100%">
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=60&section=header" width="100%">
     </td>
   </tr>
 </table>
@@ -71,8 +77,9 @@
 
 
 <br><br><br>
----
-<br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+
+<br>
 
 <!-- ============[SKILLS HEADER]============ -->
 <img src="https://i.imgur.com/YQfFXw8.png" width="100%">
