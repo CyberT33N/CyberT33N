@@ -44,7 +44,7 @@
                     background: transparent;
                     color: white;
                     overflow: hidden;
-                    padding: 50px;
+                    padding: 60px;
                     box-sizing: border-box; /* padding zum inneren Bereich hinzufügen */
                
                 }
@@ -57,7 +57,7 @@
                     margin: 0;
                     padding: 0;
                     position: relative;
-                    bottom: 25px;
+                    bottom: 30px;
                     right: 20px;
                     animation: complex-animation 30s ease-in-out infinite;
                 }

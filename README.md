@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Header-Banner -->
-  <img src="https://i.imgur.com/tybUFP8.png" width="100%" alt="Project icon">
+  <img src="assets/banner/cybert33n.png" width="100%" alt="Project icon">
 
   <br>
 
@@ -13,11 +13,11 @@
   <!-- Icons für LinkedIn und Xing darunter zentrieren -->
   <div>
     <a href="https://www.linkedin.com/in/dennis-dd">
-      <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
+      <img width="40px" src="assets/logo/linkedin.svg" alt="LinkedIn">
     </a>
     &nbsp;&nbsp; <!-- Abstand zwischen den Icons -->
     <a href="https://www.xing.com/profile/Dennis_Demand05690">
-      <img width="40px" src="https://upload.wikimedia.org/wikipedia/fr/d/d2/Xing_logo.png" alt="Xing">
+      <img width="40px" src="assets/logo/xing.png" alt="Xing">
     </a>
   </div>
 </div>
@@ -41,9 +41,10 @@
         ➤ <b>10 years</b> of experience ☕<br>
         ➤ <i>Windows, MAC & Linux</i> 💻<br>
         ➤ <i><b>Best price</b> for complex Projects</i> 💲
+        <br>
     </td>
     <td align="right" width="40%">
-      <img src="https://i.imgur.com/Tn8Vyfd.png" alt="fullstack services" width="100%">
+      <img src="assets/skills/fullstack.png" alt="fullstack services" width="100%">
     </td>
   </tr>
 </table>
@@ -65,7 +66,7 @@
 <br><br>
 
 <!-- ============[SKILLS HEADER]============ -->
-<img src="https://i.imgur.com/YQfFXw8.png" width="100%">
+<img src="assets/banner/skills.png" width="100%">
 
 
 
