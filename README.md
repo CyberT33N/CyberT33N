@@ -28,7 +28,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
 
 <!-- ============[SUPPORT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
         <img src="assets/headlines/support.svg" width="100%" alt="Support Icon">
