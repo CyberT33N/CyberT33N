@@ -72,7 +72,7 @@
 
 <!-- ============[SOFT SKILLS]============ -->
 <br><br>
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
     <img src="assets/skills/those_are.png" alt="fullstack services" width="100%">
@@ -119,7 +119,7 @@
 <br><br>
 
 <!-- ============[PROJECT MANAGMENT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <div>
@@ -143,7 +143,7 @@
 <br><br><br>
 
 <!-- ============[PROGRAMMING LANGUAGES]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <img src="assets/skills/programming_language.png" alt="fullstack services" width="100%">
@@ -175,7 +175,7 @@
 <br><br><br>
 
 <!-- ============[BACKEND DEVELOPMENT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <div>
@@ -211,7 +211,7 @@
 <br><br><br>
 
 <!-- ============[FRONTEND DEVELOPMENT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
@@ -238,7 +238,7 @@
 <br><br><br>
 
 <!-- ============[DEVOPS DEVELOPMENT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <div>
@@ -255,6 +255,7 @@
         <br><br>
         <img src="assets/headlines/skills/devops/vpn.svg" width="100%" alt="Service Icon" align="left">
         ➤ <b>Techniques:</b><i> IP Masking, Bypassing Detections, Network Tunneling</i>
+        <br>
         ➤ <b>Tools:</b><i> OpenVPN, NordVPN</i>
         <br><br>
         <img src="assets/headlines/skills/devops/veracrypt.svg" width="100%" alt="Service Icon" align="left">
@@ -270,6 +271,63 @@
     </td>
   </tr>
 </table>
+
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[FRONTEND DEVELOPMENT]============ -->
+<table align="center">
+  <tr>
+    <td align="left" width="40%">
+      <img src="assets/skills/bots.png" alt="fullstack services" width="100%">
+    </td>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/bots/custom_bots.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Languages:</b><i> Node.js, Bash</i>
+        <br>
+        ➤ <b>Use Cases:</b><i> Discord Bots, Task Scheduling, Data Gathering, Notifications, ...</i>
+        <br><br>
+        <img src="assets/headlines/skills/bots/scraping.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/bots/puppeteer.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/bots/cheerio.svg" width="100%" alt="Service Icon" align="left">
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[FRONTEND DEVELOPMENT]============ -->
+<table align="center">
+  <tr>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/testing/vitest.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/mocha.js.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/jest.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/expect.js.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/chai.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/sinon.js.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/testing/nock.svg" width="100%" alt="Service Icon" align="left">
+      </div>
+    </td>
+    <td align="right" width="40%">
+      <img src="assets/skills/bots.png" alt="fullstack services" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 <br><br>
 ---
