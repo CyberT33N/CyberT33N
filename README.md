@@ -25,7 +25,9 @@
 <br><br>
 
 
+<!-- ============[DIVIDER]============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
 
 <!-- ============[SUPPORT]============ -->
 <table align="center">
@@ -68,73 +70,66 @@
 <!-- ============[SKILLS HEADER]============ -->
 <img src="assets/banner/skills.png" width="100%">
 
-
-
+<!-- ============[SOFT SKILLS]============ -->
+<br><br>
+<table>
+  <tr>
+    <td align="left" width="40%">
+    <img src="assets/skills/those_are.png" alt="fullstack services" width="100%">
+     <img src="assets/skills/my.png" alt="fullstack services" width="100%">
+      <img src="assets/skills/soft_skills_smaller.png" alt="fullstack services" width="100%">
+    </td>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/problem-solving.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Analytical Thinking, Creative Solutions, Root Cause Analysis, Strategic Approach to Complex Challenges</i>
+        <br><br>
+        <img src="assets/headlines/skills/Communication.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Effective Team Collaboration, Clear and Concise Documentation, Stakeholder Engagement, Cross-functional Coordination</i>
+        <br><br>
+        <img src="assets/headlines/skills/time-management.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Prioritization of Tasks, Meeting Deadlines, Efficient Multitasking, Optimizing Workflows for Maximum Productivity</i>
+        <br><br>
+        <img src="assets/headlines/skills/Adaptability.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Learning New Technologies Quickly, Thriving in Fast-paced Environments, Flexible in Adjusting to New Situations, Handling Change with Confidence</i>
+        <br><br>
+        <img src="assets/headlines/skills/leadership.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Guiding Teams to Success, Mentoring and Supporting Colleagues, Influencing Outcomes through Positive Leadership, Taking Initiative in Uncertain Situations</i>
+        <br><br>
+        <img src="assets/headlines/skills/thinking.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Data-driven Decision Making, Evaluating Risk and Opportunities, Constructive Feedback Integration, Sound Judgement under Pressure</i>
+        <br><br>
+        <img src="assets/headlines/skills/detail.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Precise Coding Practices, Thorough Code Reviews, Identifying and Mitigating Potential Issues Early in Development</i>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- ============[PROJECT MANAGMENT]============ -->
-
 <br><br>
-
-
-
 <table>
   <tr>
     <td align="left" width="40%">
       <div>
         <img src="assets/headlines/skills/jira.svg" width="100%" alt="Service Icon" align="left">
         ➤ <i>Task Management, Bug Tracking, Agile Boards</i>
-        <br>
+        <br><br><br>
         <img src="assets/headlines/skills/scrum.svg" width="100%" alt="Service Icon" align="left">
         ➤ <i>Agile Development Methodology, Sprint Planning, Daily Standups</i>
       </div>
     </td>
     <td align="right" width="40%">
-      <img src="https://i.imgur.com/WR48ZZE.png" alt="fullstack services" width="100%">
+      <img src="assets/skills/project_managment.png" alt="fullstack services" width="100%">
     </td>
   </tr>
 </table>
 
+<br><br><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
 
 <br><br>
 <table align="center"><tr>

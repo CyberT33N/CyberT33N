@@ -45,6 +45,7 @@
                     display: flex;
                     align-items: center;
                     margin-left: 20px; /* Abstand zum Text */
+                    margin-top:20px;
                 }
 
                 .stars-filled {
