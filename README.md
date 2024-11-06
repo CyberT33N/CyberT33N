@@ -231,6 +231,46 @@
   </tr>
 </table>
 
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[DEVOPS DEVELOPMENT]============ -->
+<table>
+  <tr>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/devops/server.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Hosts:</b><i> Digital Ocean, Google Cloud</i>
+        <br>
+        ➤ <b>Tasks:</b><i> SSH Access, Server Configuration, Scripts, Domains</i>
+        <br><br>
+        <img src="assets/headlines/skills/devops/docker.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Tools:</b><i> Docker Compose</i>
+        <br><br>
+        <img src="assets/headlines/skills/devops/kubernetes.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Tools:</b><i> Minikube, k9s, Helm, kubectl</i>
+        <br><br>
+        <img src="assets/headlines/skills/devops/vpn.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Techniques:</b><i> IP Masking, Bypassing Detections, Network Tunneling</i>
+        ➤ <b>Tools:</b><i> OpenVPN, NordVPN</i>
+        <br><br>
+        <img src="assets/headlines/skills/devops/veracrypt.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Usage:</b><i> Disk Encryption, Hidden Volumes, Keyfiles, Encryption Algorithms</i>
+        <br><br>
+        <img src="assets/headlines/skills/devops/gitlab.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/devops/git.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/devops/virtualbox.svg" width="100%" alt="Service Icon" align="left">
+      </div>
+    </td>
+    <td align="right" width="40%">
+      <img src="assets/skills/devops.png" alt="fullstack services" width="100%">
+    </td>
+  </tr>
+</table>
+
 <br><br>
 ---
 <br>
