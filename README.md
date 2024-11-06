@@ -101,6 +101,12 @@
         <br><br>
         <img src="assets/headlines/skills/detail.svg" width="100%" alt="Service Icon" align="left">
         ➤ <i>Precise Coding Practices, Thorough Code Reviews, Identifying and Mitigating Potential Issues Early in Development</i>
+        <br><br>
+        <img src="assets/headlines/skills/emotional.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Understanding Team Dynamics, Managing Stress Effectively, Empathy in Professional Interactions, Building Trust within the Team</i>
+        <br><br>
+        <img src="assets/headlines/skills/mindset.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <i>Constantly Seeking Improvement, Embracing New Ideas, Implementing Cutting-edge Solutions to Stay Ahead of Trends</i>
       </div>
     </td>
   </tr>
