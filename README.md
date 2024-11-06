@@ -142,7 +142,6 @@
 <!-- ============[DIVIDER]============ -->
 <br><br><br>
 
-
 <!-- ============[PROGRAMMING LANGUAGES]============ -->
 <table>
   <tr>
@@ -164,12 +163,73 @@
         <img src="assets/headlines/skills/programming-languages/html.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/programming-languages/css.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/programming-languages/python.svg" width="100%" alt="Service Icon" align="left">
-        <br>
       </div>
     </td>
   </tr>
 </table>
 
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[BACKEND DEVELOPMENT]============ -->
+<table>
+  <tr>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/backend/restapi.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>API Design:</b><i> CRUD, Middlewares, Route Handling, Status Codes, Versioning</i>
+        ➤ <b>Security:</b><i> JWT, OAuth2, Rate Limiting, CORS</i>
+        ➤ <b>Tools:</b><i> Postman</i>
+        <br><br>
+        <img src="assets/headlines/skills/backend/mongoose.svg" width="100%" alt="Service Icon" align="left">
+        ➤ <b>Dependencies:</b><i> express-restify-mongoose</i>
+        <br><br>
+        <img src="assets/headlines/skills/backend/mongodb.svg" width="100%" alt="Service Icon" align="left">
+        <img src="assets/headlines/skills/backend/express.js.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <br>
+        <img src="assets/headlines/skills/backend/es.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/backend/redis.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/backend/mysql.svg" width="100%" alt="Service Icon" align="left">
+      </div>
+    </td>
+    <td align="right" width="40%">
+      <img src="assets/skills/backend.png" alt="fullstack services" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[FRONTEND DEVELOPMENT]============ -->
+<table>
+  <tr>
+    <td align="left" width="40%">
+      <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
+    </td>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/frontend/next.js.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/frontend/nextui.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/frontend/react.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        <img src="assets/headlines/skills/frontend/jquery.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 ---
