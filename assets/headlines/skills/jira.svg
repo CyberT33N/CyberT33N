@@ -55,6 +55,8 @@
 
                 .stars-empty {
                     font-size: 50px; /* Größe der Sterne */
+                    position: relative;
+                    top: 3.5px; /* vertikal zentrieren */
                 }
             </style>
 
