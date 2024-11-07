@@ -181,7 +181,9 @@
       <div>
         <img src="assets/headlines/skills/backend/restapi.svg" width="100%" alt="Service Icon" align="left">
         ➤ <b>API Design:</b><i> CRUD, Middlewares, Route Handling, Status Codes, Versioning</i>
+        <br>
         ➤ <b>Security:</b><i> JWT, OAuth2, Rate Limiting, CORS</i>
+        <br>
         ➤ <b>Tools:</b><i> Postman</i>
         <br><br>
         <img src="assets/headlines/skills/backend/mongoose.svg" width="100%" alt="Service Icon" align="left">
@@ -211,7 +213,7 @@
 <br><br><br>
 
 <!-- ============[FRONTEND DEVELOPMENT]============ -->
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="left" width="40%">
       <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
