@@ -227,31 +227,6 @@
         <img src="assets/headlines/skills/frontend/react.svg" width="100%" alt="Service Icon" align="left">
         <br>
         <img src="assets/headlines/skills/frontend/jquery.svg" width="100%" alt="Service Icon" align="left">
-        <br>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-<!-- ============[BOTS]============ -->
-<table align="center">
-  <tr>
-    <td align="left" width="40%">
-      <img src="assets/skills/bots.png" alt="fullstack services" width="100%">
-    </td>
-    <td align="left" width="40%">
-      <div>
-        <img src="assets/headlines/skills/bots/custom_bots.svg" width="100%" alt="Service Icon" align="left">
-        ➤ <b>Languages:</b><i> Node.js, Bash</i>
-        <br>
-        ➤ <b>Use Cases:</b><i> Discord Bots, Task Scheduling, Data Gathering, Notifications, ...</i>
-        <br><br>
-        <img src="assets/headlines/skills/bots/scraping.svg" width="100%" alt="Service Icon" align="left">
-        <br>
-        <img src="assets/headlines/skills/bots/puppeteer.svg" width="100%" alt="Service Icon" align="left">
-        <br>
-        <img src="assets/headlines/skills/bots/cheerio.svg" width="100%" alt="Service Icon" align="left">
       </div>
     </td>
   </tr>
