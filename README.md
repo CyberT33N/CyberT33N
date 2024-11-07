@@ -308,7 +308,7 @@
 <!-- ============[DIVIDER]============ -->
 <br><br><br>
 
-<!-- ============[FRONTEND DEVELOPMENT]============ -->
+<!-- ============[TESTING]============ -->
 <table align="center">
   <tr>
     <td align="left" width="40%">
@@ -323,10 +323,38 @@
       </div>
     </td>
     <td align="right" width="40%">
-      <img src="assets/skills/bots.png" alt="fullstack services" width="100%">
+      <img src="assets/skills/testing.png" alt="fullstack services" width="100%">
     </td>
   </tr>
 </table>
+
+
+<br><br><br>
+<!-- ============[DIVIDER]============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:117fed,100:fa46bb&height=70&section=header" width="100%">
+<!-- ============[DIVIDER]============ -->
+<br><br><br>
+
+<!-- ============[AI]============ -->
+<table align="center">
+  <tr>
+    <td align="left" width="40%">
+      <img src="assets/skills/ai.png" alt="fullstack services" width="100%">
+    </td>
+    <td align="left" width="40%">
+      <div>
+        <img src="assets/headlines/skills/ai/prompting.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        ➤ <i>Crafting Effective Prompts for Text & Image Generation</i>
+        <br><br>
+        <img src="assets/headlines/skills/ai/models.svg" width="100%" alt="Service Icon" align="left">
+        <br>
+        ➤ <i>Text-to-* Models, AI Art Generation, Image Modification, Stable Diffusion, Flux, Fine Tuning...</i>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 <br><br>
