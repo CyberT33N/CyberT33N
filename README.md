@@ -224,6 +224,7 @@
         <img src="assets/headlines/skills/frontend/nextui.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/frontend/react.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/frontend/jquery.svg" width="100%" alt="Service Icon" align="left">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
     </td>
   </tr>
