@@ -145,7 +145,7 @@
 <!-- ============[PROGRAMMING LANGUAGES]============ -->
 <table align="center">
   <tr>
-    <td align="left" width="40%">
+    <td align="left" width="60%">
       <img src="assets/skills/programming_language.png" alt="fullstack services" width="100%">
     </td>
     <td align="left" width="40%">
@@ -200,7 +200,7 @@
         <img src="assets/headlines/skills/backend/mysql.svg" width="100%" alt="Service Icon" align="left">
       </div>
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="60%">
       <img src="assets/skills/backend.png" alt="fullstack services" width="100%">
     </td>
   </tr>
@@ -215,7 +215,7 @@
 <!-- ============[FRONTEND DEVELOPMENT]============ -->
 <table align="center">
   <tr>
-    <td align="left" width="40%">
+    <td align="left" width="60%">
       <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
     </td>
     <td align="left" width="40%">
