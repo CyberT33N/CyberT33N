@@ -213,7 +213,7 @@
 <br><br><br>
 
 <!-- ============[FRONTEND DEVELOPMENT]============ -->
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="left" width="60%">
       <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
@@ -221,18 +221,13 @@
     <td align="left" width="40%">
       <div>
         <img src="assets/headlines/skills/frontend/next.js.svg" width="100%" alt="Service Icon" align="left">
-        <br><br><br> <!-- Zusätzlicher Abstand -->
         <img src="assets/headlines/skills/frontend/nextui.svg" width="100%" alt="Service Icon" align="left">
-        <br><br><br> <!-- Zusätzlicher Abstand -->
         <img src="assets/headlines/skills/frontend/react.svg" width="100%" alt="Service Icon" align="left">
-        <br><br><br> <!-- Zusätzlicher Abstand -->
         <img src="assets/headlines/skills/frontend/jquery.svg" width="100%" alt="Service Icon" align="left">
-        <br><br><br><br>
       </div>
     </td>
   </tr>
 </table>
-
 
 
 
