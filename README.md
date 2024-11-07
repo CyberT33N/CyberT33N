@@ -270,7 +270,7 @@
         <img src="assets/headlines/skills/devops/virtualbox.svg" width="100%" alt="Service Icon" align="left">
       </div>
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="60%">
       <img src="assets/skills/devops.png" alt="fullstack services" width="100%">
     </td>
   </tr>
@@ -285,7 +285,7 @@
 <!-- ============[BOTS]============ -->
 <table align="center">
   <tr>
-    <td align="left" width="40%">
+    <td align="left" width="60%">
       <img src="assets/skills/bots.png" alt="fullstack services" width="100%">
     </td>
     <td align="left" width="40%">
@@ -326,7 +326,7 @@
         <img src="assets/headlines/skills/testing/nock.svg" width="100%" alt="Service Icon" align="left">
       </div>
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="60%">
       <img src="assets/skills/testing.png" alt="fullstack services" width="100%">
     </td>
   </tr>
@@ -342,7 +342,7 @@
 <!-- ============[AI]============ -->
 <table align="center">
   <tr>
-    <td align="left" width="40%">
+    <td align="left" width="60%">
       <img src="assets/skills/ai.png" alt="fullstack services" width="100%">
     </td>
     <td align="left" width="40%">
