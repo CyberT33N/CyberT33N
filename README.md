@@ -324,6 +324,8 @@
         <img src="assets/headlines/skills/testing/chai.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/testing/sinon.js.svg" width="100%" alt="Service Icon" align="left">
         <img src="assets/headlines/skills/testing/nock.svg" width="100%" alt="Service Icon" align="left">
+                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
     </td>
     <td align="right" width="60%">
