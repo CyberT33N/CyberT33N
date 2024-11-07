@@ -222,6 +222,7 @@
       <div>
         <img src="assets/headlines/skills/frontend/next.js.svg" width="100%" alt="Service Icon" align="left">
         <br>
+        ➤ <i>Crafting Effective Prompts for Text & Image Generation</i>
         <img src="assets/headlines/skills/frontend/nextui.svg" width="100%" alt="Service Icon" align="left">
         <br>
         <img src="assets/headlines/skills/frontend/react.svg" width="100%" alt="Service Icon" align="left">
