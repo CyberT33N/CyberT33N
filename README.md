@@ -213,7 +213,7 @@
 <br><br><br>
 
 <!-- ============[FRONTEND DEVELOPMENT]============ -->
-<table>
+<table align="center">
   <tr>
     <td align="left" width="40%">
       <img src="assets/skills/frontend.png" alt="fullstack services" width="100%">
